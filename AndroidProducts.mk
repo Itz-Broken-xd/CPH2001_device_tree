@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_CPH2001.mk
+    $(LOCAL_DIR)/omni_CPH2001.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_CPH2001-user \
-    twrp_CPH2001-userdebug \
-    twrp_CPH2001-eng
+    omni_CPH2001-user \
+    omni_CPH2001-userdebug \
+    omni_CPH2001-eng
